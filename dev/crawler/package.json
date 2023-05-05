@@ -1,0 +1,13 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "puppeteer-core": "^19.11.1",
+    "short-uuid": "^4.2.2"
+  }
+}
