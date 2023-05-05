@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+
+.DS_Store
+.firebase
+.quasar
+.vscode
+
+# API Key
+.env
