@@ -6,7 +6,7 @@
 ## 📌 자바스크립트(JavaScript)
 <img src = "https://github.com/ho-ong/javascript-study/assets/114772095/9e36d618-261a-4653-9f23-f2d83e918c01.png" width = "200" height = "200">
 
-<br>
+<br><br>
 
 ## 💻 연습(Training)
 | 날짜 | 내용 | 링크 |
